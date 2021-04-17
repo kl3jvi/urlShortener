@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">URL Shortener</string>
+    <string name="url">Input your URL here</string>
+    <string name="button">Shorten</string>
+    <string name="textview"></string>
+    <string name="original_url">Original URL</string>
+    <string name="short_url">Short URL</string>
+    <string name="copy">copy</string>
+    <string name="history">History</string>
+    <string-array name="url_shorteners">
+        <item>TinyUrl</item>
+        <item>is.gd</item>
+        <item>4h.net</item>
+    </string-array>
+
+</resources>
